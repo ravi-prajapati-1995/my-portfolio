@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/ravi-prajapati-1995/my-portfolio/static/css/main.a515d42b.css",
-    "main.js": "/ravi-prajapati-1995/my-portfolio/static/js/main.72889e4d.js",
-    "static/js/415.4d6acbeb.chunk.js": "/ravi-prajapati-1995/my-portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/ravi-prajapati-1995/my-portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/skills.png": "/ravi-prajapati-1995/my-portfolio/static/media/skills.4340da844ec48df6b37b.png",
-    "static/media/AiImage.png": "/ravi-prajapati-1995/my-portfolio/static/media/AiImage.b5e3baa6b8a05627cd86.png",
-    "static/media/Bentect.png": "/ravi-prajapati-1995/my-portfolio/static/media/Bentect.0e03f5d983f93ee2f9a0.png",
-    "static/media/gemskart9.png": "/ravi-prajapati-1995/my-portfolio/static/media/gemskart9.45215e26ac6862654882.png",
-    "static/media/Ravi_CV.pdf": "/ravi-prajapati-1995/my-portfolio/static/media/Ravi_CV.d731074ac4fb617fd26b.pdf",
-    "static/media/buyfy.png": "/ravi-prajapati-1995/my-portfolio/static/media/buyfy.d3aa31599d6f3b7f73b1.png",
-    "static/media/home-main.svg": "/ravi-prajapati-1995/my-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/workPace.png": "/ravi-prajapati-1995/my-portfolio/static/media/workPace.dcb4b56956a6d8dc8cd3.png",
-    "static/media/home-bg.jpg": "/ravi-prajapati-1995/my-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/ravi-prajapati-1995/my-portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/ravi-prajapati-1995/my-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/ravi-prajapati-1995/my-portfolio/index.html",
-    "main.a515d42b.css.map": "/ravi-prajapati-1995/my-portfolio/static/css/main.a515d42b.css.map",
-    "main.72889e4d.js.map": "/ravi-prajapati-1995/my-portfolio/static/js/main.72889e4d.js.map",
-    "415.4d6acbeb.chunk.js.map": "/ravi-prajapati-1995/my-portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/ravi-prajapati-1995/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.9113fccd.css",
+    "main.js": "/my-portfolio/static/js/main.2a3b6ed1.js",
+    "static/js/415.4d6acbeb.chunk.js": "/my-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/skills.png": "/my-portfolio/static/media/skills.4340da844ec48df6b37b.png",
+    "static/media/AiImage.png": "/my-portfolio/static/media/AiImage.b5e3baa6b8a05627cd86.png",
+    "static/media/Bentect.png": "/my-portfolio/static/media/Bentect.0e03f5d983f93ee2f9a0.png",
+    "static/media/gemskart9.png": "/my-portfolio/static/media/gemskart9.45215e26ac6862654882.png",
+    "static/media/Ravi_CV.pdf": "/my-portfolio/static/media/Ravi_CV.d731074ac4fb617fd26b.pdf",
+    "static/media/buyfy.png": "/my-portfolio/static/media/buyfy.d3aa31599d6f3b7f73b1.png",
+    "static/media/home-main.svg": "/my-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/workPace.png": "/my-portfolio/static/media/workPace.dcb4b56956a6d8dc8cd3.png",
+    "static/media/home-bg.jpg": "/my-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/my-portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/my-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/my-portfolio/index.html",
+    "main.9113fccd.css.map": "/my-portfolio/static/css/main.9113fccd.css.map",
+    "main.2a3b6ed1.js.map": "/my-portfolio/static/js/main.2a3b6ed1.js.map",
+    "415.4d6acbeb.chunk.js.map": "/my-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a515d42b.css",
-    "static/js/main.72889e4d.js"
+    "static/css/main.9113fccd.css",
+    "static/js/main.2a3b6ed1.js"
   ]
 }
