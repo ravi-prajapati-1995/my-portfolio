@@ -1,35 +1,20 @@
-import React, {useEffect} from "react";
+import React from "react";
 import {Col, Row} from "react-bootstrap";
-import {BsFiletypeHtml, BsFiletypeScss} from "react-icons/bs";
-import {CgCPlusPlus} from "react-icons/cg";
+import {DiDocker, DiJava,} from "react-icons/di";
+import {FaAws} from "react-icons/fa";
 import {
-    DiJavascript1, DiReact, DiNodejs, DiMongodb, DiPython, DiGit, DiJava, DiAws, DiDocker, DiJenkins,
-} from "react-icons/di";
-import {FaAws, FaBootstrap, FaJenkins} from "react-icons/fa";
-import {
-    SiRedis,
-    SiFirebase,
-    SiNextdotjs,
-    SiSolidity,
-    SiPostgresql,
-    SiCsswizardry,
-    SiMysql,
-    SiTypescript,
-    SiSpringboot,
-    SiApachekafka,
     SiAngular,
-    SiJquery,
+    SiApachekafka,
     SiHibernate,
-    SiAwsamplify,
     SiJenkins,
-    SiJenkinsx,
     SiJunit5,
-    SiJunipernetworks,
-    SiTestinglibrary,
+    SiMysql,
+    SiPostgresql,
     SiPython,
+    SiRedis,
+    SiSpringboot,
     SiThymeleaf,
 } from "react-icons/si";
-import {TbBrandGolang, TbBrandRedux, TbBrandTypescript} from "react-icons/tb";
 
 
 function Techstack() {
